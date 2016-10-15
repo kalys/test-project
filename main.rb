@@ -1,3 +1,3 @@
-puts "Hello, Wonderful and Beautiful World"
+puts "Hello, Wonderful, Sunny and Beautiful World"
 
 puts "Kalys is awesome"
